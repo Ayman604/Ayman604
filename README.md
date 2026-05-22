@@ -43,15 +43,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ayman604/Ayman604/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Ayman604/Ayman604/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ayman604/Ayman604/snake-output/snake.svg" alt="Snake animation" />
-
-###
